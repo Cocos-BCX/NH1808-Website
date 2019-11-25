@@ -1,4 +1,3 @@
-# twts_pro
 
 > A Vue.js project
 
